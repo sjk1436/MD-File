@@ -10,11 +10,11 @@ GitHub Desktop tutorial repository
 
 **Introduction:**
 
-              Archiving and compressing files are fundamental tasks in managing digital data. Tar and Zip are two popular file formats used for this purpose. While both serve the function of bundling multiple files into a single entity, they differ in their methods of compression and the tools used to create and extract them.
+Archiving and compressing files are fundamental tasks in managing digital data. Tar and Zip are two popular file formats used for this purpose. While both serve the function of bundling multiple files into a single entity, they differ in their methods of compression and the tools used to create and extract them.
 
 **Summary:**
 
-`          `Tar, short for Tape Archive, is a file format primarily used in Unix and Linux systems. It bundles files together without compression, creating a single archive file. Zip, on the other hand, is a file format commonly used in Windows and other operating systems. It compresses files, reducing their size before bundling them into a single archive file. The main difference between Tar and Zip lies in their compression methods and the tools used to manipulate them.
+Tar, short for Tape Archive, is a file format primarily used in Unix and Linux systems. It bundles files together without compression, creating a single archive file. Zip, on the other hand, is a file format commonly used in Windows and other operating systems. It compresses files, reducing their size before bundling them into a single archive file. The main difference between Tar and Zip lies in their compression methods and the tools used to manipulate them.
 
 **Description:**
 
