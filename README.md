@@ -22,7 +22,6 @@ Tar, short for Tape Archive, is a file format primarily used in Unix and Linux s
 - **Toolsets and Usage :** Zip archives can be created and extracted using a variety of tools, including built-in functionality in many operating systems, third-party software like WinZip and 7-Zip, and command-line utilities like "zip" and "unzip". This versatility makes Zip a popular choice for users across different skill levels and preferences.
 
 ## **Difference :**
-
 |**Feature**|**TAR  FILE**|**ZIP  FILE**|
 | :- | :- | :- |
 |Compression|No|Yes|
@@ -42,5 +41,4 @@ Tar, short for Tape Archive, is a file format primarily used in Unix and Linux s
 Tar and Zip are two distinct file formats used for archiving and compressing files. Tar archives files without compression, while Zip compresses files before bundling them into a single archive. Understanding the differences between these formats is essential for selecting the most appropriate option based on the specific requirements of file management, storage, and distribution.
 
 ## **Team Members :**
-
 ###### 1 : Sri Jananth Krishnan - CSE
