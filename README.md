@@ -1,12 +1,8 @@
-# desktop-tutorial
+![Aspose Words da06cf5f-6b53-4158-be4a-33af8ff58efb 005](https://github.com/sjk1436/desktop-tutorial/assets/127378182/645baea9-d42a-40ec-9489-fc9b00b5fb96)# desktop-tutorial
 GitHub Desktop tutorial repository
 
 
-|<p>![New Project (1).jpg](Aspose.Words.da06cf5f-6b53-4158-be4a-33af8ff58efb.001.jpeg)</p><p></p><p></p><p></p>|<p>![kgil.png](Aspose.Words.da06cf5f-6b53-4158-be4a-33af8ff58efb.002.png)(Approved by AICTE, New Delhi; Affiliated to Anna University, Chennai)</p><p>Recognized by UGC, Accredited by NBA (IT)</p><p>365, KGiSL Campus, Thudiyalur Road, Saravanampatti, Coimbatore – 641035.</p>|![New Project.jpg](Aspose.Words.da06cf5f-6b53-4158-be4a-33af8ff58efb.003.jpeg)|
-| :- | :-: | :- |
-
-
-**Explain TAR vs ZIP File & their Difference**
+*Explain TAR vs ZIP File & their Difference*
 
 **Introduction:**
 
@@ -49,15 +45,14 @@ Tar, short for Tape Archive, is a file format primarily used in Unix and Linux s
 
 **Compression & Algorithm :**
 
-![](Aspose.Words.da06cf5f-6b53-4158-be4a-33af8ff58efb.004.jpeg)
+
+![Aspose Words da06cf5f-6b53-4158-be4a-33af8ff58efb 004](https://github.com/sjk1436/desktop-tutorial/assets/127378182/247fdd85-6374-4c22-ab9a-a23e741a6577)
 
 
-![](Aspose.Words.da06cf5f-6b53-4158-be4a-33af8ff58efb.005.png)
-
+![Aspose Words da06cf5f-6b53-4158-be4a-33af8ff58efb 005](https://github.com/sjk1436/desktop-tutorial/assets/127378182/daf746f9-3f98-49a9-9b07-c1bd80bd40cc)
 
 
 **Conclusion :**
 
-
-`                      `Tar and Zip are two distinct file formats used for archiving and compressing files. Tar archives files without compression, while Zip compresses files before bundling them into a single archive. Understanding the differences between these formats is essential for selecting the most appropriate option based on the specific requirements of file management, storage, and distribution.
+Tar and Zip are two distinct file formats used for archiving and compressing files. Tar archives files without compression, while Zip compresses files before bundling them into a single archive. Understanding the differences between these formats is essential for selecting the most appropriate option based on the specific requirements of file management, storage, and distribution.
 
