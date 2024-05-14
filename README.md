@@ -1,9 +1,8 @@
-![Aspose Words da06cf5f-6b53-4158-be4a-33af8ff58efb 005](https://github.com/sjk1436/desktop-tutorial/assets/127378182/645baea9-d42a-40ec-9489-fc9b00b5fb96)# desktop-tutorial
+# desktop-tutorial
 GitHub Desktop tutorial repository
 
 
-*Explain TAR vs ZIP File & their Difference*
-
+# **Explain TAR vs ZIP File & their Difference**
 **Introduction:**
 
 Archiving and compressing files are fundamental tasks in managing digital data. Tar and Zip are two popular file formats used for this purpose. While both serve the function of bundling multiple files into a single entity, they differ in their methods of compression and the tools used to create and extract them.
