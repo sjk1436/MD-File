@@ -7,14 +7,14 @@ Archiving and compressing files are fundamental tasks in managing digital data. 
 Tar, short for Tape Archive, is a file format primarily used in Unix and Linux systems. It bundles files together without compression, creating a single archive file. Zip, on the other hand, is a file format commonly used in Windows and other operating systems. It compresses files, reducing their size before bundling them into a single archive file. The main difference between Tar and Zip lies in their compression methods and the tools used to manipulate them.
 
 ## **Description:**
-####**TAR  File :**
+#### **TAR  File :**
 - **Compression Method :** Tar does not perform compression on files; it simply creates an archive by concatenating files together. This means that the size of the resulting Tar archive is typically similar to the combined size of the individual files.
 - **File Structure Preservation :** Tar preserves the original file structure, including directory hierarchies, permissions, and timestamps. This makes it suitable for creating exact replicas of the original files and directories.
 - **Cross-Platform Compatibility :** Tar is primarily associated with Unix and Linux systems, although it can be used on other platforms with appropriate software.
 - **Archive Extension :** Tar archives typically have a ".tar" extension, indicating their format. However, additional compression may be applied using utilities like gzip or bzip2, resulting in extensions like ".tar.gz" or ".tar.bz2".
 - **Toolsets and Usage :** Tar archives are created and extracted using command-line utilities like "tar" in Unix-based systems. While GUI-based tools also exist, the command-line interface is prevalent.
 
-####**ZIP  File :** 
+#### **ZIP  File :** 
 - **Compression Method :** Zip, on the other hand, employs compression algorithms like Deflate to reduce the size of files before archiving them. This compression results in smaller archive sizes, making Zip archives more efficient for storage and transmission.
 - **File Structure Preservation :** Zip also preserves file attributes, but its compression process may sometimes alter timestamps or file permissions. However, modern Zip utilities often include options to retain or modify these attributes as needed.
 - **Cross-Platform Compatibility :** Zip is more universally recognized and supported across different operating systems, including Windows, macOS, and Unix-like systems. This makes Zip a preferred choice for exchanging files between users on different platforms.
