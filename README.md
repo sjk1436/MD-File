@@ -10,7 +10,7 @@ GitHub Desktop tutorial repository
 
 **Introduction:**
 
-`                      `Archiving and compressing files are fundamental tasks in managing digital data. Tar and Zip are two popular file formats used for this purpose. While both serve the function of bundling multiple files into a single entity, they differ in their methods of compression and the tools used to create and extract them.
+              Archiving and compressing files are fundamental tasks in managing digital data. Tar and Zip are two popular file formats used for this purpose. While both serve the function of bundling multiple files into a single entity, they differ in their methods of compression and the tools used to create and extract them.
 
 **Summary:**
 
